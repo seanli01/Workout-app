@@ -1,0 +1,11 @@
+.linkStyle{
+    text-decoration: none;
+    color: #5b0e2d;
+    display: inline;
+    padding: 1rem;
+    margin: 1rem;
+    font-style: italic;
+    font-size: 50px;
+    position: relative;
+    top: -100px;
+}
